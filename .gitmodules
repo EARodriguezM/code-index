@@ -1,0 +1,4 @@
+[submodule "samples-Flutter"]
+	path = samples-Flutter
+	url = https://github.com/EARodriguezM/samples-Flutter
+	branch = main
