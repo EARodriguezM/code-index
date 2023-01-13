@@ -2,3 +2,7 @@
 	path = samples-Flutter
 	url = https://github.com/EARodriguezM/samples-Flutter
 	branch = main
+[submodule "samples-kiCAD"]
+	path = samples-kiCAD
+	url = https://github.com/EARodriguezM/samples-kiCAD
+	branch = main
